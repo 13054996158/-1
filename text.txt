@@ -3,3 +3,4 @@ pwd 显示当前文件夹在终端的位置
 ls 查看文件信息  （list file）
 cd .. 返回上一级 (change directory)
 cd 加文件夹名称进入文件夹
+v0.2
